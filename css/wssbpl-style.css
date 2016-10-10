@@ -1,0 +1,202 @@
+.books-wrapper {
+    padding: 0 20px 20px 20px;
+    width: 960px;
+}
+
+.books-wrapper.popup {
+    width: 100%;
+    padding: 0;
+}
+
+.books-wrapper.popup .info {
+    width: 463px;
+}
+
+.books-wrapper.popup .header .title {
+    width: 350px;
+}
+
+.books-wrapper.popup .header .author {
+    width: 110px;
+}
+
+.books-wrapper.popup .thumb {
+    width: 80px;
+    padding-right: 10px;
+}
+.books-wrapper img {
+	max-width: 100%;
+	height: auto;
+}
+
+.books-wrapper p {
+	margin: 0;
+}
+
+.books-wrapper.popup hr {
+    margin: 10px 0;
+}
+
+.books-wrapper.popup .entry {
+    padding-bottom: 10px;
+}
+
+#review-modal .logged-in-as {
+    display: none;
+}
+
+#review-modal .comment-form {
+    padding-top: 20px;
+}
+
+#review-modal h3 {
+    font-weight: normal;
+    font-size: 18px;
+}
+
+.books-wrapper a {
+    border: none;
+}
+
+.books-wrapper .entry {
+    overflow: hidden;
+    padding-bottom: 25px;
+}
+
+.books-wrapper p {
+    margin-bottom: 0;
+}
+
+.books-wrapper .thumb {
+    padding-right: 20px;
+}
+
+.books-wrapper .info {
+    width: 690px;
+}
+
+.books-wrapper.single .thumb {
+    width: 165px;
+	text-align: center;
+}
+
+.books-wrapper .thumb {
+    width: 105px;
+}
+
+.books-wrapper .thumb,
+.books-wrapper .info {
+    float: left;
+}
+
+.books-wrapper .description {
+    padding-top: 10px;
+}
+
+.books-wrapper .header .title {
+    float: left;
+    width: 450px;
+
+}
+
+.books-wrapper.single .header .title {
+    width: 100%;
+}
+
+.books-wrapper.single .right-col {
+    padding-top: 20px;
+}
+
+.modal-body form .row {
+    margin: 0;
+}
+
+.modal-body form .row:last-child {
+    padding-top: 20px;
+    text-align: center;
+}
+.books-wrapper.popup,
+.modal-body form,
+.post-ratings{
+    font-size: 14px;
+}
+
+.modal-body #check-out-form .row {
+    padding-top: 0;
+}
+.modal-body #check-out-form {
+	text-align: center;
+}
+
+.books-wrapper .header h3,
+.books-wrapper .header span {
+    line-height: 25px;
+}
+
+.books-wrapper .header .author {
+    float: right;
+    width: 240px;
+    margin-top: -3px;
+    text-align: right;
+}
+
+.books-wrapper .header {
+    overflow: hidden;
+    padding-bottom: 10px;
+}
+
+.books-wrapper .left-col {
+    float: left;
+}
+
+.books-wrapper.single .left-col {
+    line-height: 27px;
+}
+
+.books-wrapper .right-col {
+    float: right;
+    text-align: right;
+}
+
+.books-wrapper .left-col,
+.books-wrapper .right-col,
+.books-wrapper .description,
+.books-wrapper .author {
+    font-size: 14px;
+}
+
+.modal-dialog {
+    z-index: 9999;
+    top: 100px;
+}
+
+.isbn_10,
+.isbn_13 {
+    text-transform: uppercase;
+}
+
+.books-wrapper .toggle {
+    margin-bottom: 10px;
+}
+
+.books-wrapper .post-ratings {
+    font-size: 14px;
+}
+
+.dashicons-yes {
+    vertical-align: middle;
+    color: #24890d;
+}
+.post-ratings-loading {
+    height: 22px;
+    text-align: left;
+    font-size: 14px;
+}
+
+.user-vote {
+	float: right;
+}
+
+#page.page-container {
+	position: inherit;
+}

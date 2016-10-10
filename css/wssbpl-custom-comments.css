@@ -1,0 +1,26 @@
+h4.comment-meta {
+    position: relative;
+}
+.rating {
+    float: right;
+    text-align: center;
+    margin-right: 5px;
+    margin-top: 2px;
+    height: 1.3em;
+    line-height: 1.1em;
+}
+#dashboard_recent_comments .rating {
+    margin-top: 5px;
+}
+.column-commenters_count {
+    width: 74px;
+    text-align: center;
+}
+.user-vote {
+    overflow: hidden;
+    float: right;
+}
+.user-vote img {
+    margin-right: 0;
+    float: none;
+}
